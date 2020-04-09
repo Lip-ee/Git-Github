@@ -1,7 +1,7 @@
 # GIT E GITHUB
 
 ### Configurações iniciais
-***```git config --global user.name <your_name>``***` = Define seu nome.
+***```git config --global user.name <your_name>```*** = Define seu nome.
 
 ***```git config --global user.email <your_email>```*** = Define seu email.
 
@@ -40,7 +40,7 @@
 
 ***```git remote -v```*** = Lista os Arquivos Remotos (Detalhado).
 
-***```git remote rm <repository_name>``***` = Remove URL de um remote do Repositório.
+***```git remote rm <repository_name>```*** = Remove URL de um remote do Repositório.
 
 
 #### Gerando SSH Key (Confirmar que você é o usuário):
@@ -80,7 +80,7 @@ obs: Caso não queira adicionar a SSH Key, existe um comando para Force Update (
 
 
 ### Desfazendo alterações
-***```git checkout <file_name>``***` = Desfaz última alteração do arquivo enviado ao Repositório REMOTO.
+***```git checkout <file_name>```*** = Desfaz última alteração do arquivo enviado ao Repositório REMOTO.
 
 ***```git reset HEAD <file_name>```*** = Desfaz última alteração de arquivo enviado ao Repositório LOCAL.
 
