@@ -9,12 +9,10 @@
 
 ***```git config --list```*** = Lista suas configurações.
 
-
 ### Começando com Repositório LOCAL
 ***```sh git init```*** = Inicia Repositório LOCAL.
 
 ***```git status```*** = Retorna Status do Diretório.
-
 
 ### Adicionando Arquivos ao Repositório Local
 ***```git add <file_name>```*** = Adiciona arquivo ao modo STAGE.
@@ -23,10 +21,10 @@
 
 ***```git rm --cached <file_name>```*** = Volta o arquivo no modo UNTRACKED.
 
-
 ### Commitando Arquivos
 ***```git commit -m "mensagem"```*** = Versiona (Commita) o arquivo.
 
+***```git commit -am "mensagem"```*** = Adiciona arquivo ao modo STAGE e Versiona (Commita) ao mesmo tempo.
 
 ### Mostrando Informações (LOGS)
 ***```git log```*** = Mostra os todos os arquivos e seus respectivos commits (Forma Detalhada).
@@ -34,7 +32,6 @@
 ***```git shortlog```*** = Mostra todos os arquivos e seus respectivos commits (Forma Reduzida).
 
 ***```git show <commit_hash (código do commit)>```*** = Mostra as informações do Commit de um arquivo específico.
-
 
 ### Configurando Repositório REMOTO
 ***```git remote add <repository_name> <caminho HTTPS ou SSH>```*** = Inicia Repositório REMOTO.
