@@ -73,7 +73,7 @@
 11 - Clique 'Add SSH key'.
 
 
-obs: Caso não queira adicionar a SSH Key, existe um comando para Force Update (Sincroniza os arquivos igonorando e apagando arquivos já existentes):.
+obs: Caso não queira adicionar a SSH Key, existe um comando para Force Update (Sincroniza os arquivos igonorando e apagando arquivos já existentes):
 
 ***```git push --set-upstream <repository_name> master -f```*** (Não recomendado).
 
@@ -105,7 +105,7 @@ obs: Pega informação que está no REMOTE e trás para o LOCAL.
 
 
 ### Clone de Repositórios REMOTOS
-Clonando Repositórios:.
+Clonando Repositórios:
 
 
 ***```git clone <Caminho HTTPS ou SSH>```*** = Clona um repositório REMOTO..
