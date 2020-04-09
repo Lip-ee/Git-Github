@@ -46,15 +46,15 @@
 #### Gerando SSH Key (Confirmar que você é o usuário):
 1 - Abra o GIT Bash.
 
-2 - Cole o seguinte comando:.
+2 - Cole o seguinte comando:
 
 ***```ssh-keygen -t rsa -b 4096 -C "your_email@example.com"```*** = Cria uma nova SSH Key.
 
-id_rsa e id_rsa.pub serão gerados (SSH Keys).
+***```id_rsa e id_rsa.pub```*** serão gerados (SSH Keys).
 
-3 - Ainda no GIT Bash, cole:.
+3 - Ainda no GIT Bash, cole:
 
-***```cat id_rsa.pub```***.
+***```cat id_rsa.pub```***
 
 4 - Copie a chave (SSH Key) que aparecer no terminal.
 
