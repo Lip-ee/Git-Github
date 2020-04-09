@@ -10,7 +10,7 @@
 ***```git config --list```*** = Lista suas configurações.
 
 ### Começando com Repositório LOCAL
-***```sh git init```*** = Inicia Repositório LOCAL.
+***```git init```*** = Inicia Repositório LOCAL.
 
 ***```git status```*** = Retorna Status do Diretório.
 
