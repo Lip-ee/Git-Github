@@ -92,7 +92,8 @@ obs: Caso não queira adicionar a SSH Key, existe um comando para Force Update (
 
 
 ### Pegando Arquivos do Servidor REMOTO
-***```git pull```*** = Pega arquivo e informações dos arquivos das pessoas trabalhando junto com você no mesmo Repositório e exibe (Dica: Use sempre antes de fazer qualquer alterações para atualizar os outros arquivos).
+***```git pull```*** = Pega arquivo e informações dos arquivos das pessoas trabalhando junto com você no mesmo Repositório e exibe.
+(Dica: Use sempre antes de fazer qualquer alterações para atualizar os outros arquivos).
 
 obs: Pega informação que está no REMOTE e trás para o LOCAL.
 
